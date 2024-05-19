@@ -1,6 +1,8 @@
 # InfoEducatia-Proiect-Roblox
 Proiect pentru concursul InfoEducaţia 
 
+Video - https://youtu.be/9u7lxphVGgM
+
 Dacă ai visat vreodată să realizezi experimente interesante și periculoase în diferite domenii, dar nu ai avut materialele necesare, atunci acest videoclip este pentru tine! 🌟
 
 Prin intermediul platformei Roblox, am creat un joc interactiv și educativ pentru toți pasionații de știință. Vom explora experimente precum “Pasta de Dinti a Diavolului”, “Tubul lui Ruben” și “Reacția dintre Metalele Alcaline și Apă”. Totul este prezentat într-un limbaj ușor de înțeles, cu glume și informații educative.
