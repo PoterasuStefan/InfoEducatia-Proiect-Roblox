@@ -2,6 +2,7 @@
 Proiect pentru concursul InfoEducaţia 
 
 Video - https://youtu.be/9u7lxphVGgM
+Varianta editabila - https://drive.google.com/drive/folders/1VVb4BfEZ5V-qbWypP16xpAS88Q_xp5iS?usp=sharing (contine clipuri sursa)
 
 Dacă ai visat vreodată să realizezi experimente interesante și periculoase în diferite domenii, dar nu ai avut materialele necesare, atunci acest videoclip este pentru tine! 🌟
 
