@@ -1,5 +1,5 @@
 # InfoEducatia-Proiect-Roblox
-Proiect pentru concursul InfoEducaţia 
+Proiect pentru concursul InfoEducaţia - concurs în cadrul căruia am câștigat premiul 2 (județeană) la secțiunea multimedia
 
 Video - https://youtu.be/9u7lxphVGgM
 Varianta editabila - https://drive.google.com/drive/folders/1VVb4BfEZ5V-qbWypP16xpAS88Q_xp5iS?usp=sharing (contine clipuri sursa)
